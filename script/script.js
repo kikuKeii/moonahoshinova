@@ -1,7 +1,4 @@
-			function moonafic(){
-				randomQuote();
-			}
-			function debug(){
+                        function debug(){
 				console.log('debug');
 			}
 
