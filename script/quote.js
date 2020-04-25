@@ -1,3 +1,6 @@
+function moonafic(){
+				randomQuote();
+			}
 const quotes = [
 			    {
 					"quote": "Yaudah daripada kalian depresi kalian nge si(m)p in aku aja",
