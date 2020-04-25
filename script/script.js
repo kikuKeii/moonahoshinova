@@ -94,6 +94,14 @@
 					"quote": "Jelek zombie jelek",
 					"source": "Moona Hoshinova"
 				  },
+				 {
+					"quote": "Moona Suka Melon",
+					"source": "Moona Hoshinova"
+				  },
+				{
+					"quote": "Ohh.. Melon Yang itu,..",
+					"source": "Moona Hoshinova"
+				  },
 			]
 			setInterval(randomQuote, 6000);
 			function randomQuote(){
