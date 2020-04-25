@@ -5,8 +5,8 @@
 				console.log('debug');
 			}
 
-			var txt = 'Halo simp ku sayang';
-			var txt2 = 'txt';
+			var txt = 'teks';
+			var txt2 = 'teks';
 
 			function checkTime(i) {
 				if (i < 10) {
