@@ -170,7 +170,7 @@ body{
     animation: animate2 10s linear infinite;
 }
 .tweet{
-    position: absolute;
+    position: auto;
     right: 0;
     top: 100px;
     width: 200px;
