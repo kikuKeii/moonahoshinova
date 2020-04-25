@@ -173,7 +173,8 @@ body{
     position: auto;
     right: 0;
     top: 100px;
-    width: 200px;
+    height: 300px;
+    width: 220px;
     border: 1px solid #000;
     opacity: 50%;
 }
