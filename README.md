@@ -1,3 +1,4 @@
+# closed
 ### Moona ga suki
 
 <img src="res/img/1.jpg">

@@ -22,6 +22,10 @@ const quotes = [
 					"quote": "Ohh.. Melon Yang itu,..",
 					"source": "Moona Hoshinova"
 				  },
+				{
+					"quote": "My room full of foods. My stomach full of foods. And I feel sleepy again. My oh my"
+					"source": "Moona Hosinova 05/08/2020"
+				}
 			]
 			setInterval(randomQuote, 6000);
 			function randomQuote(){

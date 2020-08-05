@@ -79,7 +79,6 @@
 			startTime();
 
 			var i = 0;
-			
 			var speed = 50;
 			
 			function typeWriter() {

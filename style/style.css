@@ -1,3 +1,4 @@
+
 body{
     overflow: hidden;
     background: transparent;
@@ -8,6 +9,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 \\.res{
     background-image: url("1.jpg");
     background-color: #cccccc;
